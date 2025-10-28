@@ -10,7 +10,7 @@ Built using Python and animation tools, each frame comes alive as a seamless nar
 
 ## 🧠 Tech Stack
 - Python 🐍  
-- Streamlit / MoviePy / Manim (or whichever you used)  
+- MoviePy, PIL, imageio
 - FFmpeg for video rendering  
 - Git + VS Code for version control and editing  
 
