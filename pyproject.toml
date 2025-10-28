@@ -1,0 +1,17 @@
+[project]
+name = "comic-video"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "groq>=0.33.0",
+    "imageio>=2.37.0",
+    "ipykernel>=7.1.0",
+    "langchain>=1.0.2",
+    "moviepy>=2.2.1",
+    "numpy>=2.3.4",
+    "pillow>=11.3.0",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.50.0",
+]
