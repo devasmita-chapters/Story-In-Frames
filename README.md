@@ -3,10 +3,15 @@
 Turning static panels into moving stories — a fusion of code, creativity, and comics. 🎬✨  
 
 ## 📖 About the Project
-**Story-in-Frames** is a short comic video that captures everyday humor through expressive characters, witty dialogues, and simple storytelling.  
-Built using Python and animation tools, each frame comes alive as a seamless narrative — blending art, timing, and tech.
+**Story-in-Frames** A Python-coded comic strip video — created as a birthday surprise.
 
-🪄 *Think of it as if your favorite comic strip learned how to move.*
+This project started as a fun experiment to turn a simple birthday wish into something creative — a comic-style video story built entirely with Python.
+
+The comic follows a light-hearted, humorous narrative — a character reflecting on life, craving a beach escape, getting lost in food thoughts… and finally discovering a surprise birthday gift! 🎁
+
+Using Pillow, NumPy, and MoviePy, each scene was transformed into animated comic panels with dialogue bubbles, smooth fade transitions, and background music.
+
+💡 A mix of storytelling, code, and humor — proving Python can do a lot more than just data crunching.
 
 ## 🧠 Tech Stack
 - Python 🐍  
